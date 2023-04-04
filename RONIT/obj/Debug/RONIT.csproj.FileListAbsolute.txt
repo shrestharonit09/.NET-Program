@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\ronit shrestha\RONIT\RONIT\bin\Debug\RONIT.exe.config
+C:\Users\Admin\Desktop\ronit shrestha\RONIT\RONIT\bin\Debug\RONIT.exe
+C:\Users\Admin\Desktop\ronit shrestha\RONIT\RONIT\bin\Debug\RONIT.pdb
+C:\Users\Admin\Desktop\ronit shrestha\RONIT\RONIT\obj\Debug\RONIT.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ronit shrestha\RONIT\RONIT\obj\Debug\RONIT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\ronit shrestha\RONIT\RONIT\obj\Debug\RONIT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ronit shrestha\RONIT\RONIT\obj\Debug\RONIT.exe
+C:\Users\Admin\Desktop\ronit shrestha\RONIT\RONIT\obj\Debug\RONIT.pdb
